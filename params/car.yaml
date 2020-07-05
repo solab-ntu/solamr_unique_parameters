@@ -1,4 +1,5 @@
 robot_name: "car2"
 peer_robot_name: "car1"
+role: "follower"
 #cmd_vel_name: "cmd_vel_car2"
 #peer_cmd_vel_name: "cmd_vel_car1"
